@@ -2,8 +2,8 @@
 
 
 
-Execute the code using following command: mvn clean test -Dtest=TestRunnerAutomation
-
+Execute the code using following command: **mvn clean test -Dtest=TestRunnerAutomation
+**
 Please check the report in following path:
 target/cucumber-html-report/index.html
 
